@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# Weather_App
 =======
 # WeatherApp
 
